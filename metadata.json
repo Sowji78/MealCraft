@@ -1,0 +1,7 @@
+{
+  "name": " MealCraft",
+  "description": "An AI-powered food-tech application for personalized meal planning, diet generation, and smart nutrition tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
